@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flask": "^0.2.10",
+    "flask-cors": "^0.0.1",
+    "jupyterlab": "^0.17.5",
+    "pandas": "^0.0.3"
+  }
+}
